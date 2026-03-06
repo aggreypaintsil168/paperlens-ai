@@ -37,7 +37,7 @@ This transforms static research documents into an **interactive knowledge system
 
 # 🎥 Demo
 
-*(Add your demo GIF or screenshot here)*
+![Dashboard Screenshot](Screenshots/image.png)
 
 Example UI:
 
